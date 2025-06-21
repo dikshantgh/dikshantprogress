@@ -1,4 +1,7 @@
-# dikshantprogress
+## 📦 Installation
+
+Install directly from [PyPI](https://pypi.org/project/dikshantprogress/):
+
 
 [![PyPI](https://img.shields.io/pypi/v/dikshantprogress)](https://pypi.org/project/dikshantprogress/)
 ![Python](https://img.shields.io/pypi/pyversions/dikshantprogress)
